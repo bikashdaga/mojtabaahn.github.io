@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-blog-item-js",
+    "path": "/blog/item/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Hell-O"},"html":"<p>Hell-O!</p>\n<p>So, I finally managed to get my shit together and start writing.</p>\n<p>Starting a blog is not some new plan in my head, it's like more than 5 years I'm passionate about it but never had enough confidence to start one.</p>\n<p>There are many good reasons for starting this blog that I would write about in future.</p>\n<p>For now, I will try to write about some tech stacks I have experience working with and also some Open-Source projects I've worked on. for later on I might expand this blog to other fields like photography and games..</p>\n<p>Anyways, <strong>Thanks You for reading this. I try my best to make this a good place to spend time on!</strong></p>"}},"pageContext":{}},
+    "staticQueryHashes": ["3000541721"]}
